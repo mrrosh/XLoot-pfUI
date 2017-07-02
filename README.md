@@ -1,7 +1,7 @@
 # Xloot
 
 
-Xloot for 1.12 pfUI Style
+XLoot for Vanilla World of Warcraft 1.12.1 pfUI Style
 
 Credits: <a href="https://github.com/Ko0z/Xloot">Ko0z</a>, <a href="https://github.com/shagu/pfUI">shagu</a>.
 
